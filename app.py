@@ -36,7 +36,7 @@ def log_conf():
 base_url = 'http://e.cn/api/v1'
 
 # 微信code
-code = '051CoJFa1kIJMz0MmEGa1egaqY3CoJF9'
+code = '031T49Ga1svbNz0aFMHa1EVu7Z2T49GO'
 
 # 请求头
 headers = {"Content-Type": "application/json",
