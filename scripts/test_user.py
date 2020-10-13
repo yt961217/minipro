@@ -2,8 +2,9 @@ import utils
 from api.apiFactory import ApiFactory
 import app
 import logging
+import pytest
 
-
+@pytest.mark.run(order=0)
 class TestUserApi:
 
     def test_get_token(self):
